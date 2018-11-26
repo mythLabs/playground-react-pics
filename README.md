@@ -10,4 +10,4 @@
    2. Register and get you client ID.
    3. Paste client Id in src/api/unsplash.js file (replace XXXXXX)
 
-### npm start
+### npm start 
